@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Anand Khandekar</title>
+    <link>https://github.com/AnandKhandekar/broadcast/tags/scene/</link>
+    <description>Recent content in scene on Anand Khandekar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://github.com/AnandKhandekar/broadcast/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gaussian Mixture Models</title>
+      <link>https://github.com/AnandKhandekar/broadcast/post/gmmwithem/</link>
+      <pubDate>Mon, 18 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/AnandKhandekar/broadcast/post/gmmwithem/</guid>
+      <description>A Bayesian Gaussian mixture model is commonly extended to fit a vector of unknown parameters (denoted in bold), or multivariate normal distributions. In a multivariate distribution (i.e. one modelling a vector {\displaystyle {\boldsymbol {x}}}{\boldsymbol {x}} with N random variables) one may model a vector of parameters (such as several observations of a signal or patches within an image) using a Gaussian mixture model prior distribution on the vector of estimates given by</description>
+    </item>
+    
+    <item>
+      <title>Chapter IV: Master Jacques Coppenole</title>
+      <link>https://github.com/AnandKhandekar/broadcast/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://github.com/AnandKhandekar/broadcast/post/chapter-4/</guid>
+      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+    </item>
+    
+  </channel>
+</rss>
